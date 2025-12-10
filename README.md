@@ -147,7 +147,8 @@ Le projet est accompagné d’un rapport détaillant :
 ---
 
 ## 👩‍💻 Auteur
-Ton nom ici
+Salma SAGHOUGH
 
 ---
+
 
