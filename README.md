@@ -65,8 +65,8 @@ project/
 
 ### 1️⃣ Cloner le projet
 ```
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/SalmaSAGH/RAG_App.git
+cd RAG_App
 ```
 
 ### 2️⃣ Créer l’environnement Python
@@ -120,9 +120,9 @@ streamlit run ui_streamlit.py
 
 ## 🧪 Exemples de Questions
 
-- What is the main cause of climate change?  
+- Selon l'AR6 SYR SPM, les émissions de gaz à effet de serre doivent-elles augmenter, rester stables, ou diminuer ?  
+- Dans le Synthesis Report (Full Volume), quelles sont les conséquences majeures du changement climatique déjà observées dans les systèmes naturels ?
 - What does the AR6 SPM say about sea level rise?  
-- Do greenhouse gas emissions need to increase or decrease?
 
 ---
 
@@ -136,19 +136,10 @@ Le projet est accompagné d’un rapport détaillant :
 
 ---
 
-## 🧭 Limitations et Travaux futurs
-
-- Amélioration du prompt  
-- Ajout d’un re-ranker  
-- Ajout d’un système de feedback utilisateur  
-- UI plus avancée en React  
-- Comparaison avec LlamaIndex  
-
----
-
 ## 👩‍💻 Auteur
 Salma SAGHOUGH
 
 ---
+
 
 
