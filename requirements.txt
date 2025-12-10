@@ -1,0 +1,13 @@
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-core>=0.1.0
+langchain-ollama
+chromadb
+unstructured
+fastapi
+uvicorn[standard]
+python-multipart
+PyPDF2
+tiktoken
+streamlit
+pydantic>=2.0
